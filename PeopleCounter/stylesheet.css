@@ -1,0 +1,20 @@
+button{
+    border:none;
+    padding-top :10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight:bold;
+    width:200px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#incre{
+    background: darkred;
+}
+
+body{
+    background-image: url('railway.jpg');
+}
+#save{
+    background-color:green;
+}
